@@ -22,6 +22,10 @@ https://www.google.com/policies/privacy
 
 https://support.google.com/admob/answer/6128543
 
+<b>MyTarget</b>
+
+https://legal.my.com/us/mytarget/privacy
+
 <b>2. Sharing Your Information</b>
 
 The developer will share personal information with third parties only in the ways that are
