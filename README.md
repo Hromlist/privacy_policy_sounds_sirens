@@ -22,6 +22,10 @@ https://www.google.com/policies/privacy
 
 https://support.google.com/admob/answer/6128543
 
+<b>Firebase Analytics</b>
+
+https://firebase.google.com/policies/analytics
+
 <b>MyTarget</b>
 
 https://legal.my.com/us/mytarget/privacy
