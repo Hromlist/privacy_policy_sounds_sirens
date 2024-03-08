@@ -134,8 +134,8 @@ practices of any third-party sites or services.
 
 <b>6. Children’s Privacy</b>
 
-These Services do not address anyone under the age of 16. I do not knowingly collect
-personally identifiable information from children under 16. In the case I discover that
+These Services do not address anyone under the age of 13. I do not knowingly collect
+personally identifiable information from children under 13. In the case I discover that
 a child under 16 has provided me with personal information, I immediately delete those
 informations. If you are a parent or guardian and you are aware that your child has
 provided personal information, please contact me so that I will be able to do necessary
@@ -150,7 +150,7 @@ The only official channel for distribution of this app are:
 https://play.google.com
 
 Any other mode of distribution is not official and thus, is not maintained by the developer.
-This privacy policy is effective to distribution made on official channel only.\n\n
+This privacy policy is effective to distribution made on official channel only.
 
 <b>8. Changes to This Privacy Policy</b>
 
