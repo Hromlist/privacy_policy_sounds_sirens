@@ -1,6 +1,6 @@
 <b>Privacy Policy</b>
 
-This privacy policy is applicable to the AppName app (hereinafter referred to as "Application") for mobile devices, which was developed by Hlist studio (hereinafter referred to as "Service Provider") as a Free service. This service is provided "AS IS".
+This privacy policy is applicable to the Loud Horns and Sirens app (hereinafter referred to as "Application") for mobile devices, which was developed by Hlist studio (hereinafter referred to as "Service Provider") as a Free service. This service is provided "AS IS".
 
 <b>1. What information does the Application obtain and how is it used?</b>
 
