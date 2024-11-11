@@ -30,15 +30,19 @@ Only aggregated, anonymized data is periodically transmitted to external service
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
 <b>Google Play Services</b>
+
 https://www.google.com/policies/privacy
 
 <b>AdMob</b>
+
 https://support.google.com/admob/answer/6128543
 
 <b>Firebase Analytics</b>
+
 https://firebase.google.com/policies/analytics
 
 <b>Yandex</b>
+
 https://yandex.com/legal/confidential
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
@@ -83,8 +87,11 @@ The Service Provider are concerned about safeguarding the confidentiality of you
 <b>9. Distribution</b>
 
 The only official channel for distribution of this app are:
-Google Play Store
+
+<b>Google Play Store</b>
+
 https://play.google.com
+
 Any other mode of distribution is not official and thus, is not maintained by the developer. This privacy policy is effective to distribution made on official channel only.
 
 <b>10. Changes</b>
