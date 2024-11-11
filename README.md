@@ -12,12 +12,12 @@ The Service Provider may also use the information you provide to contact you fro
 <b>1.2 Automatically Collected Information</b>
 
 The Application may collect certain information automatically, including, but not limited to:
-•	device information,
-•	your mobile devices unique device ID,
-•	the IP address of your mobile device,
-•	your mobile operating system,
-•	the type of mobile Internet browsers you use,
-•	and information about the way you use the Application.
+- device information,
+- your mobile devices unique device ID,
+- the IP address of your mobile device,
+- your mobile operating system,
+- the type of mobile Internet browsers you use,
+- and information about the way you use the Application.
 
 <b>2. Does the Application collect precise real time location information of the device?</b>
 
@@ -29,19 +29,22 @@ Only aggregated, anonymized data is periodically transmitted to external service
 
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
-Google Play Services
+<b>Google Play Services</b>
 https://www.google.com/policies/privacy
-AdMob
+
+<b>AdMob</b>
 https://support.google.com/admob/answer/6128543
-Firebase Analytics
+
+<b>Firebase Analytics</b>
 https://firebase.google.com/policies/analytics
-Yandex
+
+<b>Yandex</b>
 https://yandex.com/legal/confidential
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
-•	as required by law, such as to comply with a subpoena, or similar legal process;
-•	when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-•	with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+- as required by law, such as to comply with a subpoena, or similar legal process;
+- when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+- with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
 <b>4. What are my opt-out rights?</b>
 
