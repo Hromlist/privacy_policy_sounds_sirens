@@ -33,10 +33,6 @@ Please note that the Application utilizes third-party services that have their o
 
 https://www.google.com/policies/privacy
 
-<b>AdMob</b>
-
-https://support.google.com/admob/answer/6128543
-
 <b>Firebase Analytics</b>
 
 https://firebase.google.com/support/privacy
