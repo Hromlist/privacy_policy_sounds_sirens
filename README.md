@@ -33,6 +33,10 @@ Please note that the Application utilizes third-party services that have their o
 
 https://www.google.com/policies/privacy
 
+<b>Unity</b>
+
+<b>https://unity.com/ru/legal/privacy-policy</b>
+
 <b>Firebase Analytics</b>
 
 https://firebase.google.com/support/privacy
@@ -77,7 +81,7 @@ Any other mode of distribution is not official and thus, is not maintained by th
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2024-12-14
+This privacy policy is effective as of 2025-01-02
 
 <b>10. Your Consent</b>
 
