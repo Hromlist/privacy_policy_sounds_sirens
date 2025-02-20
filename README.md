@@ -33,10 +33,6 @@ Please note that the Application utilizes third-party services that have their o
 
 https://www.google.com/policies/privacy
 
-<b>Unity</b>
-
-<b>https://unity.com/ru/legal/privacy-policy</b>
-
 <b>Firebase Analytics</b>
 
 https://firebase.google.com/support/privacy
@@ -44,6 +40,38 @@ https://firebase.google.com/support/privacy
 <b>Yandex</b>
 
 https://yandex.com/legal/confidential
+
+<b>Unity</b>
+
+<b>https://unity.com/ru/legal/privacy-policy</b>
+
+<b>AdMob</b>
+
+https://support.google.com/admob/answer/6128543
+
+<b>AppLovin Corporation</b>
+
+https://www.applovin.com/privacy
+
+<b>IronSource Mobile Ltd</b>
+
+https://www.is.com/privacy-policy
+
+<b>Mintegral</b>
+
+https://www.mintegral.com/en/privacy
+
+<b>Bigo Ads</b>
+
+https://www.adsbigo.com/privacy.html
+
+<b>Liftoff</b>
+
+https://liftoff.io/privacy-policy/#h.1f64gwp2q1iz
+
+<b>VK реклама</b>
+
+https://id.vk.com/privacy
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 - as required by law, such as to comply with a subpoena, or similar legal process;
