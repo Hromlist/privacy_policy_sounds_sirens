@@ -41,9 +41,9 @@ https://firebase.google.com/support/privacy
 
 https://yandex.com/legal/confidential
 
-<b>Unity</b>
+<b>Unity Ads</b>
 
-<b>https://unity.com/ru/legal/privacy-policy</b>
+https://unity.com/ru/legal/privacy-policy
 
 <b>AdMob</b>
 
